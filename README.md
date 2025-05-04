@@ -23,7 +23,7 @@ Windows: set FURIA_CS_BOT_TOKEN=SEU_TOKEN
 
 
 3. Clone e Instale
-   git clone https://github.com/seu-usuario/furia-cs-bot.git
+   git clone https://github.com/LucasMoreiraLana/bot-furia-cs.git
    cd furia-cs-bot
    ./gradlew build
 
