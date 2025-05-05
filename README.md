@@ -13,8 +13,7 @@ O **FURIA CS Bot** é um bot do Telegram que fornece atualizações sobre o time
 
 ### 1. Configure o Ambiente
 
-- Instale Kotlin (1.9+), Java (17+) e Gradle.
-- **Backend incluído na pasta `api/`** deste projeto:
+  - Instale Kotlin (1.9+), Java (17+) e Gradle.
   - A API já está integrada ao repositório, dentro da pasta `api`.
   - Certifique-se de que ela está rodando localmente com os seguintes endpoints disponíveis:
     - `GET /v1/partidas`
